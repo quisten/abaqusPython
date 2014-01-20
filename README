@@ -1,41 +1,7 @@
 abaqusPython
 ============
 
-Todo
-----
-1. Find moderators 
-2. Establish overall goals and routines 
-3. Acquire content
-4. Publish publicly (blog/swym)
-
-------
+A collection of frequently used abaqus scripts and other useful gems! 
 
 
-Welcome to an open repository of abaqusPython scripts and macros!
-
-The main purpose of this repository is to collect useful techniques and other gems that are 
-useful for abaqus power-users. We also hope that enough sourcecode and examples will 
-inspire users to create better scripts. 
-
-Installation
-------------
-
-Copy the scripts locally. 
-
-
-Usage
------
-
-All the scripts will have a detailed description in the header. 
-
-For the lazy: 
-1. Copy the desired script in the current work directory
-2. Write "execfile('mydesiredscript.py') in CLI or 'abaqus python mydesiredscript.py' in cmd. 
-
-Contributing
-------------
-
-Want to contribute? Submit a script? Great! 
-
-Drop me a line! 
 
