@@ -1,0 +1,71 @@
+Contents&Status
+--------------------------------
+
+todo: decide on license&include copyright (vikas)
+
+Kernel Scripts
+----------------------
+todo: create a 'how to run' instruction
+
+	- Write Input Deck
+		: missing description 
+		: author:: Ebbe Smith
+	- Python Example Script
+		: not approved by author:  Johannes T. B Overvelde - http://www.overvelde com/projects/scriptabaqus/
+	- abq2img_v01
+		: not approved by author
+		: NB: requires library: PIL (imageing-1.1.7)
+	- Principal Stress Directions
+		: not approved -> included in installation files? 
+
+
+Libraries
+-------------------------
+todo: create a 'how to install' instruction
+	- linearAlgebraUtils.puy
+		: Series of 
+	   Description: a series of frequently used functions
+                    to perform vector algebra 
+
+	- Imaging-1.1.7
+		: is it completly opensource? and are we free to host it? 
+	:: Add numpy/matplotlib! 	
+
+	::: jpeg-8d  
+	::: tcl8.5.12 
+	::: tk8.5.12 
+
+
+GUI Plugins
+----------------------------------
+	-> add bolt studio
+		: ask for permission
+
+
+Environment Mods
+----------------------------------
+todo: create a 'how to mod' instruction
+	-> add legend font mod
+	-> add geometry refinement mod
+
+
+Challenges
+----------------------------------------
+Empty atm
+
+
+______________________________________________________________________________________________________
+
+Possible Contributors: 
+------------------------------
+
+Tim Hunter:
+http://www.wolfstartech.com/ -> 'free downloads'
+
+Brent Fillery: 
+not sure, worth checking though
+
+Christer Gustavsson: 
+Spoke about some scripts for plotting graphs 
+
+swym : alot of plugins and such!  	

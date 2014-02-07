@@ -1,0 +1,12 @@
+Abaqus Python Script Repo Todolist
+--------------------------------------
+
+- Create a meaningful folder structure  (done)
+
+- Select a license for the scripts
+
+- Contact other contributours and ask for permission
+	- Example Abaqus Script - Johannes T. B Overvelde - http://www.overvelde.com/projects/scriptabaqus/
+
+- Create an incomming branch
+

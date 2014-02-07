@@ -1,0 +1,29 @@
+====================================================================
+abq2img version 0.1
+
+Distributed AS IS.
+Comes with no warranty.
+
+====================================================================
+abq2img is a small utility written in Python that reads an ABAQUS file and
+creates an image of the model. Run abq2img --help for details.
+
+The Python Imaging Library (PIL) is used to create the images. abq2img has been 
+tested with PIL 1.1.6. You can get PIL at:
+	http://www.pythonware.com/products/pil/
+
+Images are created in PNG and EPS formats. Other formats supported by PIL can
+also be implemented.
+
+====================================================================
+ABAQUS entities supported (v 0.1):
+Shells:
+      S4, S4R, S4RS, S3, S3R, S3RS, M3D4, M3D4R, M3D3, S8R, S8R5, M3D8, 
+      M3D8R, M3D6, SFM3D4, SFM3D4R, SFM3D3
+Bars:
+      B31, CONN3D2
+Solids: To be added.
+
+====================================================================
+Writen by: 
+Michalis Giannakidis, mgiannakidis@gmail.com, 2007 June 17
